@@ -3,8 +3,8 @@
   <channel>
     <title>Kevin Bastien</title>
     <description>I am a developer and wannabe designer interested in tech and startups.</description>
-    <link>http://kbastien.github.io/</link>
-    <atom:link href="http://kbastien.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://blog.kevinbastien.com/</link>
+    <atom:link href="http://blog.kevinbastien.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Hello, Everyone</title>
@@ -13,8 +13,8 @@
 &lt;p&gt;Just testing this out.&lt;/p&gt;
 </description>
         <pubDate>Wed, 31 Dec 2014 07:31:19 -0800</pubDate>
-        <link>http://kbastien.github.io/startup/2014/12/31/welcome-to-everyone/</link>
-        <guid isPermaLink="true">http://kbastien.github.io/startup/2014/12/31/welcome-to-everyone/</guid>
+        <link>http://blog.kevinbastien.com/startup/2014/12/31/welcome-to-everyone/</link>
+        <guid isPermaLink="true">http://blog.kevinbastien.com/startup/2014/12/31/welcome-to-everyone/</guid>
       </item>
     
   </channel>
