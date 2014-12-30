@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About Kevin Bastien
+layout: page	
+title: About Kevin
 permalink: /about/
 ---
 
