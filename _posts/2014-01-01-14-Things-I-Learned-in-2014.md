@@ -44,4 +44,4 @@ I hope you had an amazing year, and here’s to a new year for new adventures. H
 
 ![popbottles](http://media.giphy.com/media/6FkXvuwt9MAFi/giphy.gif)
 
-*This post was inspired by [Colby Aley](www.twitter.com/aley).*
+*This post was inspired by [Colby Aley](http://www.twitter.com/aley).*
