@@ -2,9 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Bastien</title>
-    <description>I am a developer and wannabe designer interested in tech and startups.</description>
+    <description>I am a developer and aspiring designer interested in tech and startups.</description>
     <link>http://blog.kevinbastien.com/</link>
     <atom:link href="http://blog.kevinbastien.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>What To Read This Week</title>
+        <description>&lt;p&gt;I enjoy and constantly find myself reading articles around the web. I then share the “good ones” with my immediate network via social platforms. I’ve been inspired to post my finds each week. Feel free to read the ones that intrigue you!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.newyorker.com/magazine/2015/05/18/tomorrows-advance-man?currentPage=all&quot;&gt;Tomorrow’s Advance Man&lt;/a&gt;: Tad Friend writes about the mind of Marc Andreesen, co-founder of a16z (one of Silicon Valley’s top VC firms) and his plan to win the future.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://andrewchen.co/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/&quot;&gt;Growth Hacker is the new VP Marketing&lt;/a&gt;: Andrew Chen discusses the importance of Growth Hackers. Growth hackers are a hybrid of marketer and coder, one who looks at the traditional question of “How do I get customers for my product?” and answers with A/B tests, landing pages, viral factor, email deliverability, and Open Graph.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://learn.onemonth.com/y-combinator-and-the-one-metric-that-matters&quot;&gt;Y Combinator and The One Metric that Matters&lt;/a&gt;: Mattan Griffel talks about the one metric that matters, growth. Discussing how at YC you learn that growth is the only essential thing you need to be a startup. Everything else follows. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fortune.com/2015/06/03/uber-an-oral-history/a&quot;&gt;Uber: An oral history&lt;/a&gt;: Five of the company’s earliest employees reflect on how they arrived at Uber, what their tasks were, and managing its sudden growth.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/?utm_source=andrewchen&amp;amp;utm_campaign=53a7ad7a0e-RSS_EMAIL_CAMPAIGN&amp;amp;utm_medium=email&amp;amp;utm_term=0_c1fae7e415-53a7ad7a0e-91069489&quot;&gt;Next Feature Fallacy&lt;/a&gt;: Andrew Chen talks writes about the fallacy that the next feature you add to your will suddenly make people want to use the entire product.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2015 05:31:19 -0700</pubDate>
+        <link>http://blog.kevinbastien.com/2015/06/14/What-I-Read-Last-Week/</link>
+        <guid isPermaLink="true">http://blog.kevinbastien.com/2015/06/14/What-I-Read-Last-Week/</guid>
+      </item>
+    
+      <item>
+        <title>What To Read This Week</title>
+        <description>&lt;p&gt;I enjoy and constantly find myself reading articles around the web. I then share the “good ones” with my immediate network via social platforms. I’ve been inspired to post my finds each week. Feel free to read the ones that intrigue you!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.samaltman.com/china&quot;&gt;China&lt;/a&gt;: Sam Altman discusses how the Chinese economy is overtaking the US economy. The US should try very hard to find a way to grow faster, and to coexist with China. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://cdixon.org/2011/06/20/foundermarket-fit/&quot;&gt;Founder/Market Fit&lt;/a&gt;: Chris Dixon talks about the need for a founder/market fit. This is when founders have a deep understanding of the market they are entering, and are people who “personify their product, business and ultimately their company.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.geoffralston.com/startup-priorities&quot;&gt;Startup Priorities&lt;/a&gt;: Where should the tiny number of people working on a brand new company spend their time? Geoff Ralston discusses how startups should spend their times and what their priorities should be.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://andrewchen.co/the-most-common-mistake-when-forecasting-growth-for-new-products-and-how-to-fix-it&quot;&gt;The most common mistake when forecasting growth for new products (and how to fix it)&lt;/a&gt;: Andrew Chen talks about how to fix your forecasting by focusing on inputs, not outputs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://blog.intercom.io/user-onboarding-interview-samuel-hulick/&quot;&gt;Talking User Onboarding With Samuel Hulick&lt;/a&gt;: Samuel Hulick, the CEO of useronboarding.com, discusses the onboarding of a product and the processes that it entails with the cofounder of Intercom.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 01 Mar 2015 12:31:19 -0800</pubDate>
+        <link>http://blog.kevinbastien.com/2015/03/01/What-I-Read-Last-Week/</link>
+        <guid isPermaLink="true">http://blog.kevinbastien.com/2015/03/01/What-I-Read-Last-Week/</guid>
+      </item>
     
       <item>
         <title>My New Years Resolutions</title>

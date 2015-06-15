@@ -2,7 +2,7 @@
 layout:     post
 title:      14 Things I Learned in 2014
 date:       2014-12-30 12:31:19
-summary:    Wow, this year flew by! 2014 has been a great year of growth. I grew as an individual and learned a lot of lessons along the way....
+summary:    Wow, this year flew by! 2014 has been a great year of growth. I grew as an individual and learned a lot of lessons along the way...
 ---
 *Originally posted on [Medium](https://medium.com/@kevinbastien/14-things-i-learned-in-2014-59134a4d7cd7)*
 

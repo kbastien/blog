@@ -2,7 +2,7 @@
 layout:     post
 title:      My New Years Resolutions
 date:       2015-01-01 12:31:19
-summary:    Here are my new years resolutions (hold me to them)....
+summary:    Here are my new years resolutions (hold me to them)...
 ---
 
 Here are my new years resolutions (hold me to them). Some of them were mentioned in my previous [post](http://blog.kevinbastien.com/2014/12/30/14-Things-I-Learned-in-2014):

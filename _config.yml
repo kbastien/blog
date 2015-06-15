@@ -2,12 +2,12 @@
 title:       Kevin Bastien
 email:       kevinjbastien@gmail.com
 author:      Kevin Bastien
-description: "I am a developer and wannabe designer interested in tech and startups."
+description: "I am a developer and aspiring designer interested in tech and startups."
 baseurl:     ""
 url:         "http://blog.kevinbastien.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-52211210-1
 
 # Optional features
 animated:           true
@@ -27,6 +27,6 @@ flattr_button:
 # Build settings
 markdown:     kramdown
 permalink:    pretty
-paginate:     3
+paginate:     5
 sass:
 compressed: true
