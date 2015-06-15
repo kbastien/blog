@@ -5,7 +5,7 @@ date:       2015-06-14 12:31:19
 summary:    Here are 5 articles about startups that you might find interesting to read this week...
 ---
 
-I enjoy and constantly find myself reading articles around the web. I then share the "good ones" with my immediate network via social platforms. I've been inspired to post my finds each week. Feel free to read the ones that intrigue you!
+I enjoy and constantly find myself reading articles around the web. I then share the "good ones" with my immediate network. This inspired me to post my finds each week. Feel free to read the ones that intrigue you!
 
 - [Tomorrow's Advance Man](http://www.newyorker.com/magazine/2015/05/18/tomorrows-advance-man?currentPage=all): Tad Friend writes about the mind of Marc Andreesen, co-founder of a16z (one of Silicon Valley's top VC firms) and his plan to win the future.
 
