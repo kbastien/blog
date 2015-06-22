@@ -5,7 +5,7 @@ date:       2015-06-14 12:31:19
 summary:    Here are 5 articles about startups that you might find interesting to read this week...
 ---
 
-I enjoy and constantly find myself reading articles around the web. I then share the "good ones" with my immediate network via social platforms. I've been inspired to post my finds each week. Feel free to read the ones that intrigue you!
+I enjoy and constantly find myself reading articles around the web. I then share the "good ones" with my immediate network. This inspired me to post my finds each week. Feel free to read the ones that intrigue you!
 
 - [Tomorrow's Advance Man](http://www.newyorker.com/magazine/2015/05/18/tomorrows-advance-man?currentPage=all): Tad Friend writes about the mind of Marc Andreesen, co-founder of a16z (one of Silicon Valley's top VC firms) and his plan to win the future.
 
@@ -15,4 +15,4 @@ I enjoy and constantly find myself reading articles around the web. I then share
 
 - [Uber: An oral history](http://fortune.com/2015/06/03/uber-an-oral-history/a): Five of the company’s earliest employees reflect on how they arrived at Uber, what their tasks were, and managing its sudden growth.
 
-- [Next Feature Fallacy](http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/?utm_source=andrewchen&utm_campaign=53a7ad7a0e-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_c1fae7e415-53a7ad7a0e-91069489): Andrew Chen talks writes about the fallacy that the next feature you add to your will suddenly make people want to use the entire product.
+- [Next Feature Fallacy](http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/?utm_source=andrewchen&utm_campaign=53a7ad7a0e-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_c1fae7e415-53a7ad7a0e-91069489): Andrew Chen writes about the fallacy that the next feature you add will suddenly make people want to use the entire product.
