@@ -18,3 +18,5 @@ I enjoy and constantly find myself reading articles around the web. I then share
 - [The Rise of the Intrapreneur](http://www.fastcompany.com/3046231/the-new-rules-of-work/the-rise-of-the-intrapreneur): Alyson Krueger talks about how never before has there been such a push for employees to take ownership of their own corner of a company.
 
 - [How It’s Made Series: Beats By Dre](https://medium.com/@BoltVC/how-it-s-made-series-beats-by-dre-154aae384b36): Avery Louie from Bolt sheds light on how Beats are made and the tricks they use to optimize hardware design.
+
+- BONUS: [To Apple, Love Taylor](http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor): Taylor Swift writes a letter to Apple discussing why she won't be releasing her next album on Apple Music.
