@@ -17,4 +17,4 @@ I enjoy and constantly find myself reading articles around the web. I then share
 
 - [This Is How Uber Takes Over a City](http://www.bloomberg.com/news/features/2015-06-23/this-is-how-uber-takes-over-a-city): This article talks about what Uber did to conquer America’s quirkiest city (Portland), and how the company unleashed its biggest weapon.
 
-- [Theres only a few ways to scale user growth](http://andrewchen.co/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/): Andrew Chen talks about the major channels that successful products use to drive traction.
+- [There's only a few ways to scale user growth](http://andrewchen.co/theres-only-a-few-ways-to-scale-user-growth-and-heres-the-list/): Andrew Chen talks about the major channels that successful products use to drive traction.
