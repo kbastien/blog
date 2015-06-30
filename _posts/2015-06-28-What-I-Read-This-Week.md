@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      What To Read This Week
+title:      Weekly Reads&#58; 6/28
 date:       2015-06-28 12:31:19
-summary:    Here are 5 articles about startups that you might find interesting to read this week...
+summary:    Here are 5 articles about startups that you might find interesting to read this week. Some of the topics covered in these articles are the Beats, startup failures and Uber in Portland
 ---
 
 ![hello](http://media.giphy.com/media/TCOnqmevnGbxm/giphy.gif)

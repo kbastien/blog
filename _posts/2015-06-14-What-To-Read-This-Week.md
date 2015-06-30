@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      What To Read This Week
+title:      Weekly Reads&#58; 6/14
 date:       2015-06-14 12:31:19
-summary:    Here are 5 articles about startups that you might find interesting to read this week...
+summary:    Here are 5 articles about startups that you might find interesting to read this week. Some of the topics covered in these articles are the growth hacking and Uber's history.
 ---
 
 I enjoy and constantly find myself reading articles around the web. I then share the "good ones" with my immediate network. This inspired me to post my finds each week. Feel free to read the ones that intrigue you!
