@@ -5,7 +5,7 @@ date:       2015-06-30 12:31:19
 summary:    I always find myself downloading and trying out new apps. So I thought I would share and highlight the ones that stick out. Today is a big day for Apple, once the biggest name in digital music and now trying to reclaim its title. 
 ---
 
-I always find myself downloading and trying out new apps. So I thought I would share and highlight the ones that stick out. My goal is to help spotlight some apps that the majority of people are not as familiar with. Hope you find this useful! Enjoy. 
+*I always find myself downloading and trying out new apps. So I thought I would share and highlight the ones that stick out. My goal is to help spotlight some apps that the majority of people are not as familiar with. Hope you find this useful! Enjoy.*
 
 ![Apple Music Image](../../../../images/am.jpg)
 
