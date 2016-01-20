@@ -2,9 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Bastien</title>
-    <description>I am a developer and aspiring designer interested in tech and startups.</description>
+    <description>I am an iOS developer at R/GA interested in tech and startups.</description>
     <link>http://blog.kevinbastien.com/</link>
     <atom:link href="http://blog.kevinbastien.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Hello Beautiful!</title>
+        <description>&lt;p&gt;From Florida to Oregon, over the last couple of weeks I have put together my first gopro video. My goal for 2016 (as mentioned in the previous blog post) is to post 12+ youtube videos of my adventures. Through these videos I will not only improve my filming abilities, but also share some of the amazing adventures I have planned.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Be sure to check it out here:&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/07sA6vtcF88&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 19 Jan 2016 04:31:19 -0800</pubDate>
+        <link>http://blog.kevinbastien.com/2016/01/19/Hello-Beautiful/</link>
+        <guid isPermaLink="true">http://blog.kevinbastien.com/2016/01/19/Hello-Beautiful/</guid>
+      </item>
     
       <item>
         <title>Goals For 2016</title>
@@ -218,70 +230,6 @@
         <pubDate>Thu, 01 Jan 2015 04:31:19 -0800</pubDate>
         <link>http://blog.kevinbastien.com/2015/01/01/My-New-Years-Resolutions/</link>
         <guid isPermaLink="true">http://blog.kevinbastien.com/2015/01/01/My-New-Years-Resolutions/</guid>
-      </item>
-    
-      <item>
-        <title>14 Things I Learned in 2014</title>
-        <description>&lt;p&gt;&lt;em&gt;Originally posted on &lt;a href=&quot;https://medium.com/@kevinbastien/14-things-i-learned-in-2014-59134a4d7cd7&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://goo.gl/NKol6r&quot; alt=&quot;scenery&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wow, this year flew by! 2014 has been a great year of growth. I grew as an individual and learned a lot of lessons along the way. I decided to publish this list, even though some of them seem to be pretty cliché. I thought it would be good to reflect back on what exactly it is I learned and the things I will continue to improve on in 2015!&lt;/p&gt;
-
-&lt;p&gt;Below are the 14 things I learned in 2014:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Learn by doing:&lt;/strong&gt; This year I finally figured out what I want to do after college. I really enjoy web development, and knew the only way I would gain the necessary skills to become a web developer would be to work on my own projects. I began attending hackathons, creating things, and learning new languages and frameworks. Although I am not the greatest developer, I feel that I have grown and am more confident than I was at the beginning of this year.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;If you want it, go and get it:&lt;/strong&gt; I have been fortunate to have a lot of helpful mentors. One of the most rewarding things I have learned from them is don’t take no for an answer. This has helped me with meetings, job searches, etc. Don’t hesitate, if you want something, go out there and get it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Exercise, sleep and eat well:&lt;/strong&gt; Living a healthy lifestyle is a major contributor to one’s attitude, energy, and mental state. I was not the healthiest and did not have the best sleeping schedule, but this is one of my resolutions for 2015. Eating whatever I wanted, having late nights and exercising irregularly definitely took a toll on me.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Continue to learn:&lt;/strong&gt; There were multiple times this year where I found myself static— completing the day-to-day school work, but not really trying anything new or challenging. I realized that in order to grow, I need to continue to test myself by trying to learn something new everyday.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Failure is just another way of learning:&lt;/strong&gt; I have always been very competitive, so I do not take failure lightly. When I fail, I am always hard on myself. This year I taught myself that failure is just another way of learning. Once you fail at something, you learn from that mistake, and do whatever it is better the next time.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Surround yourself with like minded individuals:&lt;/strong&gt; Jim Rohn once said, “you are the average of the five people you spend the most time with.” I cannot agree more. I started to surround myself with determined individuals that I not only look up to, but that I learn from. This had a huge impact in my growth this year. Another saying that really stuck with me is, “place yourself in a room where everyone is smarter than you.” This will help you learn from everyone around you, and even if it doesn’t seem like it, they will learn from you.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Read more:&lt;/strong&gt; I used to always complain when my parents told me I had to read, and never was one to read school textbooks. I am always reading articles and finally started reading books this year that interest me, from books about startups to fictional novels like The Art of Racing in the Rain (really good book that I just finished, you should check it out!). I believe that this will pay off and help me communicate better and keep me well-informed.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Meet new people:&lt;/strong&gt; I learned that I had to reach out and meet new people, not just at my University, not just in Portland, but from all over. I would sometimes limit myself to who was immediately around me. I learned that I need to go out to local meetups, conferences, and hackathons to meet like minded individuals. I have been fortunate to meet some amazing people and made a lot of new friends.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Do things that make you uncomfortable:&lt;/strong&gt; This is something I have to continue to do in 2015. Something that I have yet to overcome is public speaking. I do not know why I get so nervous, but I could do a presentation about myself and my mind would still go blank. If I continue to put myself in uncomfortable situations like public speaking, it will force me to overcome the sense of discomfort, and ultimately forcing me to learn and grow.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Don’t care about what others think:&lt;/strong&gt; This is one of the hardest concepts to overcome. To some degree, everyone cares what certain people think. I used to care what everyone thinks, but have quickly realized this is unproductive and destructive. If you care about what others think, it will only limit you, and you will not reach your full potential. In the end, I have learned to do what makes me happy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Write more:&lt;/strong&gt; This also happens to be one of my resolutions. I started a blog this year, Meet the Founder, where I interview startup founders. This helped me start writing more, but was still not enough. So in 2015 I am making it my goal to write more. The more I write, the more I will improve. It does not matter to me if anybody reads my work, writing more will allow me to express myself, and I enjoy it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Offer a hand:&lt;/strong&gt; This is something that I need to do more. Volunteering does not have to be something you find as a burden. Volunteer for events that you find interest in. Offer to help others with projects they are working on.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Everything will work out:&lt;/strong&gt; No matter what it is—whether it is grades, money, jobs—it will work out. Keeping a positive outlook and not stressing about the little things has helped me. “Don’t sweat the small stuff.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Reflect on your day:&lt;/strong&gt; Beginning around early September, I began writing down three things: something good that happened that day, something I was grateful for and what I did that day to help someone out. I would even do this after long stressful days, which happened to be the most helpful. This helped me have a better perspective on how that day actually went, and put me in a better mood.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I hope you had an amazing year, and here’s to a new year for new adventures. Happy New Year!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://media.giphy.com/media/6FkXvuwt9MAFi/giphy.gif&quot; alt=&quot;popbottles&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 30 Dec 2014 04:31:19 -0800</pubDate>
-        <link>http://blog.kevinbastien.com/2014/12/30/14-Things-I-Learned-in-2014/</link>
-        <guid isPermaLink="true">http://blog.kevinbastien.com/2014/12/30/14-Things-I-Learned-in-2014/</guid>
       </item>
     
   </channel>
